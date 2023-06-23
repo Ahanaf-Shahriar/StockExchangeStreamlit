@@ -1,0 +1,11 @@
+.block {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .block.green {
+    background-color: rgba(0, 195, 255, 0.325);
+  }
